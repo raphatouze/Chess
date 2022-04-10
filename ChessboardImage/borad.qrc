@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="borad">
+    <file>chessBoard.png</file>
+  </qresource>
+</RCC>
